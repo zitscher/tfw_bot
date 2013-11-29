@@ -5,7 +5,7 @@ A simple IRC Bot written in Pyhton. The purpose of this script is mainly in help
 Well, and some other silly stuff :)
 
 Current commands:
-- !middach (randomly chooses restaurant)
-- !xkcd (random xkcd comic)
-- !8ball (a german magic eight ball)
-- !help
+- **!middach** (randomly chooses restaurant)
+- **!xkcd** (random xkcd comic)
+- **!8ball** (a german magic eight ball)
+- **!help**
